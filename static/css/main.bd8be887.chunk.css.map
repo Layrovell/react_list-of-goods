@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,GACE,eACF,CAEA,KACE,UACF","file":"main.bd8be887.chunk.css","sourcesContent":["li {\n  list-style: none;\n}\n\n.btn {\n  margin: 5px;\n}\n"]}
